@@ -1,0 +1,92 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bobo{
+    padding: 76px;
+}
+.ota{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+}
+.bola{
+    color: #000000;
+    font-size: 32px;
+    font-weight: 700;
+}
+.qiz{
+    padding-top: 128px;
+}
+.nevara{
+    color: #000000;
+    font-size: 64px;
+    font-weight: 700;
+    text-align: center;
+}
+.ada{
+    
+}
+.ogil{
+
+} */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.dada{
+    display: flex;
+    list-style:none;
+    justify-content: space-around;
+}
+.bola{
+    color: rgb(0, 0, 0);
+    font-size: 32px;
+    font-weight: 700;
+}
+.bobo{
+    padding-top: 76px;
+}
+.ona{
+    padding-top: 128px;
+}
+.qiz{
+    color: #000000;
+    font-size: 64px;
+    font-weight: 700;
+    text-align: center;
+    left: 569px;
+    right: 569px;
+    top: 243px;
+    bottom: 983px;
+}
+.uka{
+    color: rgb(255, 255, 255);
+    width: 558px;
+    height:452px;
+    background: rgb(255, 0, 0);
+    font-size: 100px;
+    text-align: center;
+    margin-left: space-around;
+}
+.ota{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.mol{
+    display: flex;
+    list-style:none;
+    justify-content: space-around;
+}
+.qoy{
+    color: rgb(0, 0, 0);
+    font-size: 32px;
+    font-weight: 700;
+}
+.buvi{
+    padding-top: 257px;
+}
+
